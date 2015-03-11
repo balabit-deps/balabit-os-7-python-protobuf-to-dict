@@ -1,0 +1,5 @@
+python-protobuf-to-dict (0.1.0-1) precise; urgency=low
+
+  * Initial Debian release.
+
+ -- Tamas Falusi <tamas.falusi@balabit.com>  Tue, 10 Mar 2015 13:55:51 +0100
