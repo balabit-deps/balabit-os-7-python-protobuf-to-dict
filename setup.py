@@ -14,8 +14,6 @@ setup(
     install_requires=['protobuf>=2.3.0'],
     package_dir={'':'src'},
     py_modules=['protobuf_to_dict'],
-    setup_requires=['protobuf>=2.3.0', 'nose>=1.0', 'coverage', 'nosexcover'],
-    test_suite = 'nose.collector',
     classifiers=[
         'Programming Language :: Python',
         'Development Status :: 4 - Beta',
