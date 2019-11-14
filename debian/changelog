@@ -1,3 +1,9 @@
+python-protobuf-to-dict (0.1.0-1bb1) bionic; urgency=medium
+
+  * Add copyright file to the debian packaging
+
+ -- Platform Team <devnull@dev.null>  Thu, 14 Nov 2019 17:54:05 +0100
+
 python-protobuf-to-dict (0.1.0-1) precise; urgency=low
 
   * Initial Debian release.
